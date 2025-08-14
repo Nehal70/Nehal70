@@ -30,7 +30,7 @@ Here are some projects I've been working on:
 - **Description:** Healthcare technology solution built with RAG, finetuned LLMs, and vast database using Python/Flask for backend and React for front-end for the AI-ATL Hackathon. 
 - **Highlights:** Focused on improving therapeutic outcomes through data-driven insights
 
-### [My Portfolio](https://github.com/Nehal70/My-Portfolio)
+### [My Portfolio](https://www.nehal.tech)
 - **Description:** Personal portfolio website showcasing technical and design skills
 - **Highlights:** Built with TypeScript for optimal performance and type safety
 
