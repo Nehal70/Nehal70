@@ -49,7 +49,7 @@ Here are some projects I've been working on:
 
 - **Email:** nehalsinghal@gatech.edu, nehalsinghal06@gmail.com
 - **LinkedIn:** [linkedin.com/in/nehal06](https://linkedin.com/in/nehal06)
-- **Portfolio:** Coming Soon!
+- **Portfolio:** [nehal.tech](https://www.nehal.tech)
 
 ## 🌟 Current Focus
 
