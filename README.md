@@ -4,14 +4,14 @@
 
 ---
 
-Welcome! I'm passionate about building scalable and efficient AI systems, focusing on:
+Welcome! I'm passionate about AI/ML and hardware, focusing on:
 
 - **AI/ML Algorithms** & theory in practice
 - **AI Infrastructure:** cloud-native, containerized ML operations, edge deployment pipelines
 - **GPU Optimization:** accelerating inference & training for real-world AI workflows
 - **Hardware-AI Acceleration:** FPGAs, ASICs, and custom silicon for ML
 - **ML Inference** systems, real-time pipelines, and hardware-software co-design
-- **Low-Level Engineering:** RTL, verification, signal analysis, silicon workflows
+- **Low-Level Engineering:** C, C++, Linuxm, RTL, verification, signal analysis, silicon workflows
 - **GenAI:** exploring generative AI architectures, infrastructure, and deployment
 
 Feel free to connect: nsinghal38@gatech.edu · [LinkedIn](https://linkedin.com/in/nehal06) · [Portfolio](https://nehal.tech)
@@ -26,21 +26,22 @@ Feel free to connect: nsinghal38@gatech.edu · [LinkedIn](https://linkedin.com/i
 - Enables FPGA/ASIC prototyping, hardware ML design, and digital verification
 
 ### 2. **[Kube-AI-Pipeline](https://github.com/Nehal70/Kube-AI-Pipeline)**
-*Scalable AI Model Pipeline using Docker/Kubernetes*
+*Scalable AI Model Pipelines using Docker/Kubernetes*
 - Complete GPU-supported pipeline for training & serving AI models
 - Orchestrates scalable cloud-native ML infrastructure
 
 ### 3. **[GNNs-From-Scratch](https://github.com/Nehal70/GNNs-From-Scratch)**
-*Graph Neural Networks, Linear Regression, & Deep Learning from Scratch (Python/C++)*
+*Optimized Graph Neural Networks, Linear Regression, & Deep Learning from Scratch (CUDA/C++)*
 - Implements core ML and GNN algorithms at ground level
 - Enables low-level study of ML pipelines and graph learning
+- Deploys using NVIDIA GPUs on Google Collab. 
 
 ### 4. **[datagen](https://github.com/Nehal70/datagen)**
 *Image Dataset Augmentation with Deep Reinforcement Learning*
 - Customizes image datasets via RL for large-scale data and ML model training
 
 ### 5. **[SystemVerilog-64-Bit-Calculator](https://github.com/Nehal70/SystemVerilog-64-Bit-Calculator)**
-*Digital Design & Verification with SystemVerilog*
+*Digital Design, Design Verification and Physical Design with SystemVerilog, TCL, and more.*
 - 64-bit calculator implementation with verification and digital design methodology
 
 ### 6. **[ECE-2031](https://github.com/Nehal70/ECE-2031)**
