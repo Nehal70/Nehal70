@@ -1,4 +1,4 @@
-# Nehal Singhal: AI Infrastructure & Hardware-Driven ML Systems
+# Nehal Singhal
 
 **Computer Engineering @ Georgia Tech · AI/ML | Hardware Acceleration | GPU Optimization | ML Systems | Design Verification | GenAI**
 
