@@ -23,6 +23,7 @@ Feel free to connect: nsinghal38@gatech.edu · [LinkedIn](https://linkedin.com/i
 ### 1. **[Sveri-ML](https://github.com/Nehal70/Sveri-ML)**
 *Machine Learning Algorithms in SystemVerilog*
 - Open-source library for ML implemented in SystemVerilog
+- Provides inference for neural networks and other machine learning algorithms
 - Enables FPGA/ASIC prototyping, hardware ML design, and digital verification
 
 ### 2. **[Kube-AI-Pipeline](https://github.com/Nehal70/Kube-AI-Pipeline)**
