@@ -1,6 +1,6 @@
 # Nehal Singhal
 
-**Computer Engineering @ Georgia Tech · AI/ML | Hardware Acceleration | GPU Optimization | ML Systems | Design Verification | GenAI**
+**Computer Engineering @ Georgia Tech · AI/ML | Hardware Acceleration | GPU Optimization | AI Infrastructure | ML Systems | Design Verification | GenAI**
 
 ---
 
