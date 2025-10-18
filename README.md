@@ -1,63 +1,73 @@
-# Hi there, I'm Nehal Singhal! 👋
+# Nehal Singhal: AI Infrastructure & Hardware-Driven ML Systems
 
-## 🚀 About Me
-
-I'm a Computer Engineering student with minors in AI and Mathematics at Georgia Institute of Technology with a passion for building innovative software solutions and exploring the intersection of technology, AI, silicon-chips, design and real-world impact.
-
-- 🎓 Currently studying Computer Engineering at **Georgia Tech**
-- 🤖 Passionate about **AI/ML, Full-Stack Development, Design and Silicon-Chips**
-- 💼 Just Finished AI Developer Internship at Machadalo
-- 🌱 Always learning and exploring new technologies
-- 📍 Based in Atlanta, Georgia
-
-## 💡 Featured Projects
-
-Here are some projects I've been working on:
-
-### [Board](https://yellow-bush-003f1130f.2.azurestaticapps.net/)
-- ***Description:*** Digitised Softboards to create a collaborative digital environment using websockets so that softboards could have their google docs moment.
-- **Highlights:** Used Azure and LLMs to store user PDFs, Images, Textual Posts and In-App AI conversations as posts on a softboard. Instant summarisation and instant post-driven context was enabled, allowing users to add image-based, text-based and file-based, as well as previous or other AI conversations as context to a new AI-conversation. Used React for the front-end to allow users to seamlessly add/edit/remove posts and generate AI insights in-app as well as summarise them and give conversations context regarding your softboard and its posts at any point in time.
-
-### [Java-OOP](https://github.com/Nehal70/Java-OOP)
-- **Description:** Comprehensive Object-Oriented Programming implementations and coursework
-- **Highlights:** Core CS1331 coursework demonstrating advanced Java concepts and design patterns
-
-###  [GT Trading Competition](https://github.com/Nehal70/GT-Trading-Competition)
-- **Description:** Interactive trading platform built with modern web technologiesn for real-time inter-collegiate trading competitions hosted by Georgia Tech
-- **Highlights:** Real-time trading simulation with dynamic market data
-
-### [Therafit](https://github.com/Nehal70/Therafit)
-- **Description:** Healthcare technology solution built with RAG, finetuned LLMs, and vast database using Python/Flask for backend and React for front-end for the AI-ATL Hackathon. 
-- **Highlights:** Focused on improving therapeutic outcomes through data-driven insights
-
-### [My Portfolio](https://www.nehal.tech)
-- **Description:** Personal portfolio website showcasing technical and design skills
-- **Highlights:** Built with TypeScript for optimal performance and type safety
-
-### [MUNit](https://github.com/Nehal70/MUNit)
-- **Description:** End-to-end platform for organizing and participating in Model UN conferences. 
-- **Highlights:** Complete event management system built with TypeScript and modern frameworks
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, TypeScript, JavaScript, SQL  
-**Frameworks:** React, FastAPI, Node.js  
-**Tools:** Git, Azure, PostgreSQL  
-**Areas:** Full-Stack Development, AI/ML, Database Design, Cloud Services
-
-## 📫 Let's Connect!
-
-- **Email:** nehalsinghal@gatech.edu, nehalsinghal06@gmail.com
-- **LinkedIn:** [linkedin.com/in/nehal06](https://linkedin.com/in/nehal06)
-- **Portfolio:** [nehal.tech](https://www.nehal.tech)
-
-## 🌟 Current Focus
-
-- 🔭 Working on full-stack applications with modern tech stacks
-- 🌱 Deepening my knowledge in AI/ML and cloud technologies  
-- 👯 Open to collaborating on innovative software projects
-- 💬 Ask me about Java, Python, web development, or anything tech!
+**Computer Engineering @ Georgia Tech · AI/ML | Hardware Acceleration | GPU Optimization | ML Systems | Design Verification | GenAI**
 
 ---
 
-💡 *"Building technology that makes a difference, one commit at a time."*
+Welcome! I'm passionate about building scalable and efficient AI systems, focusing on:
+
+- **AI/ML Algorithms** & theory in practice
+- **AI Infrastructure:** cloud-native, containerized ML operations, edge deployment pipelines
+- **GPU Optimization:** accelerating inference & training for real-world AI workflows
+- **Hardware-AI Acceleration:** FPGAs, ASICs, and custom silicon for ML
+- **ML Inference** systems, real-time pipelines, and hardware-software co-design
+- **Low-Level Engineering:** RTL, verification, signal analysis, silicon workflows
+- **GenAI:** exploring generative AI architectures, infrastructure, and deployment
+
+Feel free to connect: nehalsinghal@gatech.edu · [LinkedIn](https://linkedin.com/in/nehal06) · [Portfolio](https://nehal.tech)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **[Sveri-ML](https://github.com/Nehal70/Sveri-ML)**
+*Machine Learning Algorithms in SystemVerilog*
+- Open-source library for ML implemented in SystemVerilog
+- Enables FPGA/ASIC prototyping, hardware ML design, and digital verification
+
+### 2. **[Kube-AI-Pipeline](https://github.com/Nehal70/Kube-AI-Pipeline)**
+*Scalable AI Model Pipeline using Docker/Kubernetes*
+- Complete GPU-supported pipeline for training & serving AI models
+- Orchestrates scalable cloud-native ML infrastructure
+
+### 3. **[GNNs-From-Scratch](https://github.com/Nehal70/GNNs-From-Scratch)**
+*Graph Neural Networks, Linear Regression, & Deep Learning from Scratch (Python/C++)*
+- Implements core ML and GNN algorithms at ground level
+- Enables low-level study of ML pipelines and graph learning
+
+### 4. **[datagen](https://github.com/Nehal70/datagen)**
+*Image Dataset Augmentation with Deep Reinforcement Learning*
+- Customizes image datasets via RL for large-scale data and ML model training
+
+### 5. **[SystemVerilog-64-Bit-Calculator](https://github.com/Nehal70/SystemVerilog-64-Bit-Calculator)**
+*Digital Design & Verification with SystemVerilog*
+- 64-bit calculator implementation with verification and digital design methodology
+
+### 6. **[ECE-2031](https://github.com/Nehal70/ECE-2031)**
+*Digital Design Laboratory Projects*
+- VHDL/Verilog/FPGAs, signal analysis, waveform processing & hardware project demos
+
+### 7. **[MUNit](https://github.com/Nehal70/MUNit)**
+*End-to-End Platform for Model UN Conferences (TypeScript)*
+- Showcases full-stack application development and platform design
+
+### 8. **[GT-Trading-Competition](https://github.com/Nehal70/GT-Trading-Competition)**
+*Algorithmic Trading Competition Platform (JavaScript)*
+
+### 9. **[Therafit](https://github.com/Nehal70/Therafit)**
+*Python-based project (details TBA)*
+
+### 10. **[Java-OOP](https://github.com/Nehal70/Java-OOP)**
+*CS1331 Object-Oriented Programming Projects (Java)*
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** SystemVerilog, VHDL, Python, C++, JavaScript/TypeScript, CUDA, Java
+- **Platforms:** FPGAs, GPUs, ASIC design, Docker, Kubernetes, Azure, GCP, MongoDB
+- **Tooling:** Quartus, Vivado, SignalTap, GitHub, VSCode, Prisma, FastAPI, Pinecone
+
+---
+
+**Let's connect to build next-generation AI/ML systems.**
