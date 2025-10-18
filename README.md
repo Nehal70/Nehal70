@@ -14,7 +14,7 @@ Welcome! I'm passionate about building scalable and efficient AI systems, focusi
 - **Low-Level Engineering:** RTL, verification, signal analysis, silicon workflows
 - **GenAI:** exploring generative AI architectures, infrastructure, and deployment
 
-Feel free to connect: nehalsinghal@gatech.edu · [LinkedIn](https://linkedin.com/in/nehal06) · [Portfolio](https://nehal.tech)
+Feel free to connect: nsinghal38@gatech.edu · [LinkedIn](https://linkedin.com/in/nehal06) · [Portfolio](https://nehal.tech)
 
 ---
 
