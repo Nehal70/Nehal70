@@ -15,31 +15,48 @@ I specialize in the intersection of **Computer Architecture** and **System Softw
 
 ---
 
-## 🚀 Featured Systems & Hardware Projects
+## 🚀 Featured Projects
 
-### 1. **[ZenOS](https://github.com/Nehal70/zenos)** *Operating Systems & Kernel Implementation*
+### 🛠️ Systems, Architecture & Networking
+**[Synchronizing-Threads](https://github.com/Nehal70/Synchronizing-Threads)**
+*Concurrency & Operating Systems*
+- Implementation of thread synchronization primitives and multi-threaded coordination.
+- Focuses on avoiding deadlocks, race conditions, and optimizing resource sharing in a concurrent environment.
+
+**[Catching-Caches](https://github.com/Nehal70/Catching-Caches)**
+*Computer Architecture & Memory Hierarchy*
+- Exploration of cache coherence, hit/miss optimization, and memory subsystem performance.
+- Demonstrates deep understanding of CPU-to-Memory bottlenecks and architectural efficiency.
+
+**[ZenOS](https://github.com/Nehal70/zenos)** 
+*Operating Systems & Kernel Implementation*
 - Focuses on process scheduling, virtual memory management, and interrupt handling.
 - Exploring hardware abstraction layers and system call implementations in C.
 
-### 2. **[Sveri-ML](https://github.com/Nehal70/Sveri-ML)**
-*Hardware-AI Acceleration (SystemVerilog)*
-- An open-source library for Machine Learning primitives implemented natively in SystemVerilog.
-- Enables FPGA/ASIC prototyping for neural network inference and hardware-level digital verification.
-
-### 3. **[ZeNetwork](https://github.com/Nehal70/ZeNetworking)**
+**[ZeNetwork](https://github.com/Nehal70/ZeNetworking)**
 *Communication & Networking*
 - Implementation of low-level networking stacks and communication protocols.
 - Focused on reliability, packet parsing, and low-latency data transmission for embedded environments.
 
-### 4. **[GNNs-From-Scratch](https://github.com/Nehal70/GNNs-From-Scratch)**
-*GPU Optimization & CUDA*
-- High-performance implementation of Graph Neural Networks and Linear Algebra kernels using CUDA and C++.
-- Bridges the gap between ground-level ML theory and hardware-specific optimization.
-
-### 5. **[SystemVerilog-64-Bit-Calculator](https://github.com/Nehal70/SystemVerilog-64-Bit-Calculator)**
+**[SystemVerilog-64-Bit-Calculator](https://github.com/Nehal70/SystemVerilog-64-Bit-Calculator)**
 *Digital Design & Verification*
 - A 64-bit ALU/Calculator implementation utilizing a full digital design and physical design methodology.
 - Features comprehensive verification testbench and TCL scripting for tool automation.
+
+### 🧠 Hardware-AI & Acceleration
+**[Sveri-ML](https://github.com/Nehal70/Sveri-ML)**
+*Hardware-AI Acceleration (SystemVerilog)*
+- An open-source library for Machine Learning primitives implemented natively in SystemVerilog.
+- Enables FPGA/ASIC prototyping for neural network inference.
+
+**[GNNs-From-Scratch](https://github.com/Nehal70/GNNs-From-Scratch)**
+*GPU Optimization & CUDA*
+- High-performance implementation of Graph Neural Networks using CUDA and C++.
+- Focused on bridging ground-level ML theory with hardware-specific optimization.
+
+**[Kube-AI-Pipeline](https://github.com/Nehal70/Kube-AI-Pipeline)**
+*AI Infrastructure*
+- GPU-supported pipeline for training and serving models via Docker/Kubernetes.
 
 ---
 
