@@ -1,75 +1,68 @@
 # Nehal Singhal
 
-**Computer Engineering @ Georgia Tech · AI/ML | Hardware Acceleration | GPU Optimization | AI Infrastructure | ML Systems | Design Verification | GenAI**
+**Computer Engineering @ Georgia Tech · RTL Design | Design Verification | | Operating Systems | Embedded Systems | Networking | AI/ML | Hardware-Acceleration | GPU Optimization | AI Infrastructure  GenAI**
 
 ---
 
-Welcome! I'm passionate about AI/ML and hardware, focusing on:
+### 💻 About Me
+I specialize in the intersection of **Computer Architecture** and **System Software**. My work focuses on building high-performance hardware-software systems, with a particular interest in:
 
-- **AI/ML Algorithms** & theory in practice
-- **AI Infrastructure:** cloud-native, containerized ML operations, edge deployment pipelines
-- **GPU Optimization:** accelerating inference & training for real-world AI workflows
-- **Hardware-AI Acceleration:** FPGAs, ASICs, and custom silicon for ML
-- **ML Inference** systems, real-time pipelines, and hardware-software co-design
-- **Low-Level Engineering:** C, C++, Linuxm, RTL, verification, signal analysis, silicon workflows
-- **GenAI:** exploring generative AI architectures, infrastructure, and deployment
-
-Feel free to connect: nsinghal38@gatech.edu · [LinkedIn](https://linkedin.com/in/nehal06) · [Portfolio](https://nehal.tech)
+* **Chip Design & Verification:** RTL design (SystemVerilog/VHDL), UVM/Formal verification, and physical design workflows.
+* **Operating Systems & Low-Level:** Kernel development, memory management, and hardware-software abstraction (C/C++, Linux).
+* **Networking & Protocols:** Implementing hardware-level communication stacks (TCP/IP, UART, SPI, I2C) and high-speed interconnects.
+* **Hardware-AI Acceleration:** Architecting custom silicon and FPGA accelerators for LLM and GNN workloads.
+* **Embedded Systems:** Real-time signal analysis, bare-metal firmware, and FPGA-based DSP.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Systems & Hardware Projects
 
-### 1. **[Sveri-ML](https://github.com/Nehal70/Sveri-ML)**
-*Machine Learning Algorithms in SystemVerilog*
-- Open-source library for ML implemented in SystemVerilog
-- Provides inference for neural networks and other machine learning algorithms
-- Enables FPGA/ASIC prototyping, hardware ML design, and digital verification
+### 1. **[ZenOS](https://github.com/Nehal70/zenos)** *Operating Systems & Kernel Implementation*
+- Focuses on process scheduling, virtual memory management, and interrupt handling.
+- Exploring hardware abstraction layers and system call implementations in C.
 
-### 2. **[Kube-AI-Pipeline](https://github.com/Nehal70/Kube-AI-Pipeline)**
-*Scalable AI Model Pipelines using Docker/Kubernetes*
-- Complete GPU-supported pipeline for training & serving AI models
-- Orchestrates scalable cloud-native ML infrastructure
+### 2. **[Sveri-ML](https://github.com/Nehal70/Sveri-ML)**
+*Hardware-AI Acceleration (SystemVerilog)*
+- An open-source library for Machine Learning primitives implemented natively in SystemVerilog.
+- Enables FPGA/ASIC prototyping for neural network inference and hardware-level digital verification.
 
-### 3. **[GNNs-From-Scratch](https://github.com/Nehal70/GNNs-From-Scratch)**
-*Optimized Graph Neural Networks, Linear Regression, & Deep Learning from Scratch (CUDA/C++)*
-- Implements core ML and GNN algorithms at ground level
-- Enables low-level study of ML pipelines and graph learning
-- Deploys using NVIDIA GPUs on Google Collab. 
+### 3. **[ZeNetwork](https://github.com/Nehal70/ZeNetworking)**
+*Communication & Networking*
+- Implementation of low-level networking stacks and communication protocols.
+- Focused on reliability, packet parsing, and low-latency data transmission for embedded environments.
 
-### 4. **[datagen](https://github.com/Nehal70/datagen)**
-*Image Dataset Augmentation with Deep Reinforcement Learning*
-- Customizes image datasets via RL for large-scale data and ML model training
+### 4. **[GNNs-From-Scratch](https://github.com/Nehal70/GNNs-From-Scratch)**
+*GPU Optimization & CUDA*
+- High-performance implementation of Graph Neural Networks and Linear Algebra kernels using CUDA and C++.
+- Bridges the gap between ground-level ML theory and hardware-specific optimization.
 
 ### 5. **[SystemVerilog-64-Bit-Calculator](https://github.com/Nehal70/SystemVerilog-64-Bit-Calculator)**
-*Digital Design, Design Verification and Physical Design with SystemVerilog, TCL, and more.*
-- 64-bit calculator implementation with verification and digital design methodology
-
-### 6. **[ECE-2031](https://github.com/Nehal70/ECE-2031)**
-*Digital Design Laboratory Projects*
-- VHDL/Verilog/FPGAs, signal analysis, waveform processing & hardware project demos
-
-### 7. **[MUNit](https://github.com/Nehal70/MUNit)**
-*End-to-End Platform for Model UN Conferences (TypeScript)*
-- Showcases full-stack application development and platform design
-
-### 8. **[GT-Trading-Competition](https://github.com/Nehal70/GT-Trading-Competition)**
-*Algorithmic Trading Competition Platform (JavaScript)*
-
-### 9. **[Therafit](https://github.com/Nehal70/Therafit)**
-*Python-based project (details TBA)*
-
-### 10. **[Java-OOP](https://github.com/Nehal70/Java-OOP)**
-*CS1331 Object-Oriented Programming Projects (Java)*
+*Digital Design & Verification*
+- A 64-bit ALU/Calculator implementation utilizing a full digital design and physical design methodology.
+- Features comprehensive verification testbench and TCL scripting for tool automation.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack 
 
-- **Languages:** SystemVerilog, VHDL, Python, C++, JavaScript/TypeScript, CUDA, Java
-- **Platforms:** FPGAs, GPUs, ASIC design, Docker, Kubernetes, Azure, GCP, MongoDB
-- **Tooling:** Quartus, Vivado, SignalTap, GitHub, VSCode, Prisma, FastAPI, Pinecone
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Hardware / RTL** | SystemVerilog, VHDL, Verilog, Vivado, Quartus, SignalTap, ModelSim |
+| **Low-Level / Systems** | C, C++, ARM/RISC-V Assembly, Linux Kernel, RTOS, Makefile |
+| **Networking** | TCP/IP, UDP, UART, SPI, I2C, Ethernet, Socket Programming |
+| **AI & Acceleration** | CUDA, Python (PyTorch), Docker, Kubernetes, TensorRT, Pinecone |
+| **Full-Stack / Misc** | TypeScript, Java, Git, GitHub Actions, MongoDB, Prisma, FastAPI |
 
 ---
 
-**Let's connect to build next-generation AI/ML systems.**
+## 📊 Engineering Stats
+![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal70&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal70&layout=compact&theme=transparent)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/nehal06) · [Portfolio](https://nehal.tech) · [Email](mailto:nsinghal38@gatech.edu)
+
+---
+**Let's build next-generation hardware-software systems.**
